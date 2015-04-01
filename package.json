@@ -1,0 +1,14 @@
+{
+  "name": "JavaScript.next-demos",
+  "version": "1.0.0",
+  "description": "The demos for the seminar JavaScript.next of Telerik Academy Plus",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Doncho Minkov (donchominkov@gmail.com)",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.11",
+    "gulp-babel": "^4.0.1",
+    "gulp-watch": "^4.2.2"
+  }
+}
